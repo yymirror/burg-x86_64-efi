@@ -113,7 +113,7 @@ GRUB_USERS="*=user1,user2:ubuntu=user1:windows="
 #EOF
 ```
 *For a complete list of supported variables, refer to this document:*
-- [Supported Variables](https://github.com/yymirror/burg-x86_64-efi/VARIABLES.md "List of supported variables")
+- [Supported Variables](https://github.com/yymirror/burg-x86_64-efi/blob/main/VARIABLES.md "List of supported variables")
 
 
 If you have customized boot items, you need to copy
