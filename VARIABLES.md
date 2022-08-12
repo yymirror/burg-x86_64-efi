@@ -123,8 +123,9 @@ You can have normal and rescue boot item for the same kernel, and much more if y
 ```
 
 **GRUB_USERS** *(BURG only)*
-`This variable configures password protection for boot items, see `
-[Authentication](https://github.com/yymirror/burg-x86_64-efi/AUTHENTICATION.md "User-Authentication") `for more information.`
+`This variable configures password protection for boot items, see`
+[Authentication](https://github.com/yymirror/burg-x86_64-efi/blob/main/AUTHENTICATION.md "User-Authentication")
+`for more information.`
 
 **GRUB_LINUX16** *(BURG only)*
 Value: true or false
